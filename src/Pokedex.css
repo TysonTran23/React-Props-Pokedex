@@ -1,0 +1,11 @@
+.Pokedex-container{
+    text-align: center;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+
+.Pokedex-title {
+  color: grey;
+  text-align: center;
+}

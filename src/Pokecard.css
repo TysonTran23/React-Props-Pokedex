@@ -1,0 +1,12 @@
+.Pokecard-info {
+  list-style-type: none;
+}
+
+.Pokecard-name {
+  color: blue;
+}
+
+.Pokecard {
+    background-color: lightgrey;
+    border-radius: 1rem;
+}
